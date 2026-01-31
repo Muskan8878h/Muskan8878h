@@ -19,10 +19,6 @@ I enjoy transforming ideas into **real-world products**, working with **clean ar
 
 ##  Coding & Problem Solving
 
--  **Contest Rating:** 1646  
--  **Global Rank:** 143,664 / 822,246  
--  **Top 17.81% globally**
--  **Max Streak:** 97 days  
 -  **600+ submissions in last year**
 -  Earned **badges**
 
