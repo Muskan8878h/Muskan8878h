@@ -50,9 +50,9 @@ I enjoy transforming ideas into **real-world products**, working with **clean ar
 ---
 
 ### Development Practices
-    Agile (Scrum)
-    Secure API Development
-    Unit Testing
+   - Agile (Scrum)
+   - Secure API Development
+   - Unit Testing
 
 ---
 
